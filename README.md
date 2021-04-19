@@ -3,4 +3,4 @@
 My name is Avner Levy,
 ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Avner152=anuraghazra&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avner152&theme=gotham&show_icons=true)
