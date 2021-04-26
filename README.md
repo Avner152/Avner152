@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Avner Levy, I'm currently working on a few projects such as
-a restful service project with nodejs, express and MongoDB to store data in.
+a restful service project with NodeJS, Express and MongoDB to store data in.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avner152&theme=gotham&show_icons=true)
